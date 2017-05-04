@@ -1,0 +1,8 @@
+Hi {{ user.display_name }} -
+
+We would like to remind you that the {{ team_name }} are playing a{% if location == 'away' %}n{% endif %} {{ location }} game {{ gametime }}. 
+
+{{ signature }}
+
+You received this message because {{ user.email }} has subscribed to receive alerts from sportswarning.com.
+If you received this in error or would like to stop receiving alerts, login to sportswarning.com as {{ user.email }} or email us at support@sportswarning.com.

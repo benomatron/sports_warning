@@ -1,0 +1,29 @@
+todo - build phase:
+
+- disable changing team for existing watcher
+- django logging
+- deploy script (at least to compile, collectstatic, etc)
+- pylint, pep8, jsxhint
+
+todo - v2
+- mobile
+
+todo - v3
+- redux
+- unsubscribe for alerts
+- unsubscribe from sms
+- 3 field phone number
+- purge used email confirmations?
+- provide feedback from alerts like why did i receive or fuck off
+- designed html email templates
+- more home page
+- general team page
+- general schedule page
+- include the libraries that need customization (authy, smsish) as resources
+- rewrite authy and twilio (smsish) integrations
+- deploy methods
+- social auth
+- better validation
+- cannot change message when hovering over email (settings form)
+- blackout times
+- team logos and shit
